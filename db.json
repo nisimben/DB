@@ -1,0 +1,20 @@
+{
+    "teachers":[
+        { "name":"ariel", "age" : 35},
+        { "name":"assaf", "age" : 52},
+        { "name":"david", "age" : 35},
+        { "name":"dvir", "age" : 47}
+    ],
+    "students":[
+        { "name":"nisim", "age" : 25},
+        { "name":"eli", "age" : 12},
+        { "name":"aharon ", "age" : 15},
+        { "name":"shuki", "age" : 17}
+    ],
+    "startInSky" :[
+        { "StarName" : "earth", "StarWeight": 125.59},
+        { "StarName" : "uranus", "StarWeight": 3125.59},
+        { "StarName" : "pluto", "StarWeight": 5125.59},
+        { "StarName" : "moon", "StarWeight": 25.59}
+    ]
+}
